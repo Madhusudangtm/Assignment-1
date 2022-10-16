@@ -1,4 +1,5 @@
 #fibonacci series 0,1,1,2,3,5,8,13,21,34
+
 a = 1
 b = 1
 
@@ -9,3 +10,6 @@ while a<55:
     a = b
     b = i
 
+#output 
+Fibonacci Series:
+1  1  2  3  5  8  13  21  34  
